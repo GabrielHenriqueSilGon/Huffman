@@ -20,8 +20,7 @@ Picador (seiva palavra)
 	  getline (leitor, linha);
 
 	  contas (&palavra, linha);
-
-	  //escreve no arquivo em binario talvez?  
+ 
 	}
 
     }
